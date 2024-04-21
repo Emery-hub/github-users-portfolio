@@ -58,6 +58,6 @@ These resources were useful in helping me build this project
 # Author
 
 - Website: still in progress
-- Twitter: [@demicoder](www.twitter.com/@demicoder)
+- Twitter: [@demicoder](https://www.twitter.com/@demicoder)
 
 

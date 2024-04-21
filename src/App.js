@@ -2,10 +2,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import RepoDetails from "./pages/RepoDetails";
 
-// import { useState, useEffect } from "react";
-// import Loading from "./Loading";
-// import Profile from "./Profile";
-
 // const singleUser = `https://api.github.com/users/emery-hub`
 // const repos = `https://api.github.com/users/emery-hub/repos?per_page=5`
 // https://api.github.com/users/emery-hub/repos?page=1&per_page=10&sort=updated
